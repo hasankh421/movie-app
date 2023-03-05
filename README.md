@@ -1,7 +1,7 @@
-# React_Movie_App
-## Live Preview: 
+ React_Movie_App
 
-Coded by - [kareem shimes]
+I created React Movie App and Fetch Movie API
+
 
 ![](/MovieApp.png)
-I created React Movie App and Fetch Movie API
+
